@@ -33,8 +33,8 @@ export default [
         "warn",
         { allowConstantExport: true },
       ],
-      "no-unused-vars": 0, //unused variables haru lai pailai off gardincha
-      "react/prop-types": "off",
+      "no-unused-vars": "off", //unused variables haru lai pailai off gardincha
+      "react/prop-types": 0,
     },
   },
 ];
